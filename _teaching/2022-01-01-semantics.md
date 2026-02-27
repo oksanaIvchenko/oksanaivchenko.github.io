@@ -1,8 +1,10 @@
 ---
-title: "Semantics (2022–2024)"
+title: "Semantics"
 collection: teaching
-type: "Bachelor Course"
+type: "Bachelor’s Course"
+role: "Instructor"
 venue: "University of Lille"
-date: 2022-01-01
 location: "Lille, France"
+date: 2022-09-01
+end_date: 2024-06-30
 ---
