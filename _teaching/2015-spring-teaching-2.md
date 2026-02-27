@@ -1,20 +1,9 @@
 ---
-title: "Teaching experience 2"
+title: "Experimental Linguistics"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Master 1 Course"
+venue: "University of Lille"
+date: 2023
+location: "Lille, France"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Part-time Lecturer (24h). Covered experimental design and methodology in linguistic research.
