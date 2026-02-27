@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Oksana"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "bio: "PhD researcher in Language Sciences working on eye-tracking, text simplification, and NLP for modeling reading behaviour.""
   location         : "France"
   employer         : "University of Lille"
   uri              : # URL
