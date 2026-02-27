@@ -6,4 +6,4 @@ venue: "University of Lille"
 date: 2022-09-01
 location: "Lille, France"
 ---
-Teaching Assistant (18h). 
+
