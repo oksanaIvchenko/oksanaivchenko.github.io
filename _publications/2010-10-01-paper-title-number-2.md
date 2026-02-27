@@ -1,14 +1,11 @@
 ---
-title: "Paper Title Number 2"
+title: "Where Patients Slow Down: Surprisal, Uncertainty, and Simplification in French Clinical Reading"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2025-09-01-french-clinical-reading
+date: 2025-09-01
+venue: 'Proceedings of First International Workshop on Gaze Data and NLP (RANLP 2025)'
+paperurl: 'https://aclanthology.org/2025.gaze4nlp-1.7/'
+citation: 'Ivchenko, O., Qazi, A.M., & Nasir, J.A. (2025). &quot;Where Patients Slow Down: Surprisal, Uncertainty, and Simplification in French Clinical Reading.&quot; <i>Proceedings of First International Workshop on Gaze Data and NLP (RANLP 2025)</i>, pp. 52–57.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+A study on how patient-facing clinical texts can be optimized for better comprehension through the analysis of reading gaze data.
