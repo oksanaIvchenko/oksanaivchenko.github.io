@@ -1,9 +1,9 @@
 ---
-title: "Phonetics/Phonology"
+title: "Phonetics and Phonology"
 collection: teaching
-type: "Teaching Assistant"
+type: "Bachelor’s Course"
+role: "Teaching Assistant"
 venue: "University of Lille"
-date: 2022-09-01
 location: "Lille, France"
+date: 2022-09-01
 ---
-
