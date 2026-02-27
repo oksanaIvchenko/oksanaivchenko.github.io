@@ -40,10 +40,10 @@ Experienced in designing and analyzing eye-tracking experiments, building annota
   Modeling reading behavior in French medical texts using eye-tracking annotated corpora.
 
 - **Research Fellow (STSM)**, University of Galway, Galway, Ireland, *09/2024*  
-  Collaboration with Jamal Nasir on improving eye-fixation prediction using LLMs (MultiplEYE COST Action).
+  Collaboration on improving eye-fixation prediction using LLMs (MultiplEYE COST Action).
 
 - **Visiting Researcher (funded research stay)**, SFB 1102, Saarland University, Saarbrücken, Germany, *04–07/2024*  
-  Work with Vera Demberg on processing of medical terminology using eye-tracking data.
+  Work on processing of medical terminology using eye-tracking data.
 
 ---
 
