@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo_2023-08-06_13-22-54.jpg"
+  avatar           : "/images/photo_2023-08-06_13-22-54.jpg"
   name             : "Oksana"
   pronouns         : # example: "she/her"  
   bio: "PhD researcher in Language Sciences working on eye-tracking, text simplification, and NLP for modeling reading behaviour."
