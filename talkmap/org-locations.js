@@ -5,6 +5,11 @@ var addressPoints = [
     8.5410422
   ],
   [
+    "Study of Syntactic Processes in General and Medical French Corpora<br />International Symposium AFLS 2023; Lille, France",
+    50.6365654,
+    3.0635282
+  ],
+  [
     "Assessing Reading Challenges in Medical and General Texts through Eye-Tracking<br />EURON PhD Days; Lille, France",
     50.6365654,
     3.0635282
