@@ -1,20 +1,9 @@
 ---
-title: "Teaching experience 1"
+title: "Syntax"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Bachelor Course"
+venue: "University of Lille"
+date: 2024
+location: "Lille, France"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Part-time Lecturer (24h)
