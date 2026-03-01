@@ -1,7 +1,7 @@
 ---
 title: "Where Patients Slow Down: Surprisal, Uncertainty, and Simplification in French Clinical Reading"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2025-09-01-french-clinical-reading
 date: 2025-09-01
 venue: 'Proceedings of First International Workshop on Gaze Data and NLP (RANLP 2025)'
