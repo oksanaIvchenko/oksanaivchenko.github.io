@@ -2,7 +2,6 @@
 title: "A French Eye-Tracking Corpus of Original and Simplified Medical, Clinical, and General Texts-FETA"
 collection: publications
 permalink: /publication/2025-feta-corpus
-# excerpt: 'We introduce the FETA corpus–a French Eye-TrAcking corpus combining three types of texts (general, medical and clinical) read by 46 participants.'
 date: 2025-01-01
 venue: 'Proceedings of the First International Workshop on Gaze Data and Natural Language Processing (RANLP 2025)'
 paperurl: 'https://aclanthology.org/2025.gaze4nlp-1.5.pdf'
